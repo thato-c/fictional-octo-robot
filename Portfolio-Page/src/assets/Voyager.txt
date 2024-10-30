@@ -1,0 +1,1 @@
+https://media.cnn.com/api/v1/images/stellar/prod/voyager.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp
